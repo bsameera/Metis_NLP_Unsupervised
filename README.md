@@ -42,4 +42,4 @@ Matplotlib/ Seaborn – Visualizing data exploration, modeling and results
 Python 3.8.5 – to run all of the above
 
 nltk -  Natural language toolkit, to work with human language data.
-![image](https://user-images.githubusercontent.com/19984340/194583562-c60d5e1f-9f3e-4d26-b3f2-72e9eef2463b.png)
+
